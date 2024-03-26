@@ -1,0 +1,1 @@
+calculate HCF of two numbers
